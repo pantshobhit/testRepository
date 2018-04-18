@@ -3,3 +3,5 @@ added on day 2 -test 2
 
 these are local changes
 these are remote changes to the file
+
+these changes are made from visual studio
